@@ -122,4 +122,18 @@ Team velocity
    the required items for the dev team.
    `I want to have notifications in the App when there is new contend added`  
 
-fdffffff
+Tittle: U.S.01: Notifications
+
+For: As the main user 
+Why: I want to receive notifications in the App when there is a new content added 
+In order to: Keep myself aware and posted when there are changes or interactions that are interesting to me. 
+
+Criteria of acceptance:
+1- An icon/button inside the App must be highlighted when there are new notifications.
+2- The main icon in the smartphone´s menu must have a red circle showing that there are pending notifications.
+3- A drop down list will appear when the notification button inside the App is clicked.
+4- The drop down list will only show up to 5 pending notifications.
+5- Each notification in the drop down list must show how long ago it was received.
+6- At the botton of the drop down list a "Show all" button must be shown.
+7- Pending notifications must appear even when the smartphone is locked on the lock screen.
+8- Each notification in the drop down list or in the "Show all" session must take me to the main content added.  
